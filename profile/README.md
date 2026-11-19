@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/migration-script-runner/.github/main/assets/branding/logos/msr-logo-color-flat.png" alt="Migration Script Runner logo" width="180">
+  <img src="https://migration-script-runner.dev/images/msr-logo-color-glass-translucent.png" alt="Migration Script Runner logo" width="180">
 </p>
 
 # Migration Script Runner
